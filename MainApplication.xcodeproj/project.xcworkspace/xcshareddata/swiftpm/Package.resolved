@@ -1,0 +1,23 @@
+{
+  "pins" : [
+    {
+      "identity" : "base_sdk",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/LalanaChami/Base_SDK.git",
+      "state" : {
+        "revision" : "b861d5b02576bbdfe29c0eaf6fc8733f75581473",
+        "version" : "0.0.6"
+      }
+    },
+    {
+      "identity" : "ui_kit_package",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/LalanaChami/UI_Kit_Package.git",
+      "state" : {
+        "revision" : "4a97183fd4b7809466fe9c1944b7b99c445e5f12",
+        "version" : "0.0.4"
+      }
+    }
+  ],
+  "version" : 2
+}

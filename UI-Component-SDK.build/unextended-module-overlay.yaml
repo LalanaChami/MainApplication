@@ -1,0 +1,23 @@
+{
+  'version': 0,
+  'use-external-names': 'false',
+  'case-sensitive': 'false',
+  'roots': [{
+    'type': 'directory',
+    'name': "/Users/amilam/Library/Developer/Xcode/DerivedData/UI-Component-SDK-cgrqobojsgunctfbtkhzbpkwwsej/Build/Products/Debug-iphonesimulator/UI_Component_SDK.framework/Modules"
+    'contents': [{
+      'type': 'file',
+      'name': "module.modulemap",
+      'external-contents': "/Users/amilam/Library/Developer/Xcode/DerivedData/UI-Component-SDK-cgrqobojsgunctfbtkhzbpkwwsej/Build/Intermediates.noindex/UI-Component-SDK.build/Debug-iphonesimulator/UI-Component-SDK.build/unextended-module.modulemap",
+    }]
+    },
+    {
+    'type': 'directory',
+    'name': "/Users/amilam/Library/Developer/Xcode/DerivedData/UI-Component-SDK-cgrqobojsgunctfbtkhzbpkwwsej/Build/Products/Debug-iphonesimulator/UI_Component_SDK.framework/Headers"
+    'contents': [{
+      'type': 'file',
+      'name': "UI_Component_SDK-Swift.h",
+      'external-contents': "/Users/amilam/Library/Developer/Xcode/DerivedData/UI-Component-SDK-cgrqobojsgunctfbtkhzbpkwwsej/Build/Intermediates.noindex/UI-Component-SDK.build/Debug-iphonesimulator/UI-Component-SDK.build/unextended-interface-header.h",
+    }]
+    }]
+}

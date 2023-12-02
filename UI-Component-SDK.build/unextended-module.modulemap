@@ -1,0 +1,10 @@
+framework module UI_Component_SDK {
+  umbrella header "UI_Component_SDK.h"
+  export *
+
+  module * { export * }
+}
+
+module UI_Component_SDK.__Swift {
+  exclude header "UI_Component_SDK-Swift.h"
+}

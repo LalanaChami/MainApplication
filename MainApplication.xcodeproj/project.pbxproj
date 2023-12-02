@@ -7,18 +7,34 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		3C130EFA2B18534E00F6E855 /* UI_Kit_Package in Frameworks */ = {isa = PBXBuildFile; productRef = 3C130EF92B18534E00F6E855 /* UI_Kit_Package */; };
+		3C130EFD2B18810B00F6E855 /* Base_SDK in Frameworks */ = {isa = PBXBuildFile; productRef = 3C130EFC2B18810B00F6E855 /* Base_SDK */; };
 		3C9C7D6A2B1700CA00EB69F0 /* MainApplicationApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3C9C7D692B1700CA00EB69F0 /* MainApplicationApp.swift */; };
 		3C9C7D6C2B1700CA00EB69F0 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3C9C7D6B2B1700CA00EB69F0 /* ContentView.swift */; };
 		3C9C7D6E2B1700CF00EB69F0 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 3C9C7D6D2B1700CF00EB69F0 /* Assets.xcassets */; };
 		3C9C7D712B1700CF00EB69F0 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 3C9C7D702B1700CF00EB69F0 /* Preview Assets.xcassets */; };
 /* End PBXBuildFile section */
 
+/* Begin PBXCopyFilesBuildPhase section */
+		3C9C7E4E2B175C3400EB69F0 /* Embed Frameworks */ = {
+			isa = PBXCopyFilesBuildPhase;
+			buildActionMask = 2147483647;
+			dstPath = "";
+			dstSubfolderSpec = 10;
+			files = (
+			);
+			name = "Embed Frameworks";
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXCopyFilesBuildPhase section */
+
 /* Begin PBXFileReference section */
-		3C9C7D662B1700CA00EB69F0 /* MainApplication.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = MainApplication.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		3C9C7D692B1700CA00EB69F0 /* MainApplicationApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MainApplicationApp.swift; sourceTree = "<group>"; };
 		3C9C7D6B2B1700CA00EB69F0 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		3C9C7D6D2B1700CF00EB69F0 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		3C9C7D702B1700CF00EB69F0 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		3C9C7E4A2B175BD000EB69F0 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist; path = Info.plist; sourceTree = "<group>"; };
+		3C9C7E612B1771C000EB69F0 /* MainApplication.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = MainApplication.app; sourceTree = BUILT_PRODUCTS_DIR; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -26,6 +42,8 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				3C130EFD2B18810B00F6E855 /* Base_SDK in Frameworks */,
+				3C130EFA2B18534E00F6E855 /* UI_Kit_Package in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -36,21 +54,14 @@
 			isa = PBXGroup;
 			children = (
 				3C9C7D682B1700CA00EB69F0 /* MainApplication */,
-				3C9C7D672B1700CA00EB69F0 /* Products */,
+				3C9C7E612B1771C000EB69F0 /* MainApplication.app */,
 			);
-			sourceTree = "<group>";
-		};
-		3C9C7D672B1700CA00EB69F0 /* Products */ = {
-			isa = PBXGroup;
-			children = (
-				3C9C7D662B1700CA00EB69F0 /* MainApplication.app */,
-			);
-			name = Products;
 			sourceTree = "<group>";
 		};
 		3C9C7D682B1700CA00EB69F0 /* MainApplication */ = {
 			isa = PBXGroup;
 			children = (
+				3C9C7E4A2B175BD000EB69F0 /* Info.plist */,
 				3C9C7D692B1700CA00EB69F0 /* MainApplicationApp.swift */,
 				3C9C7D6B2B1700CA00EB69F0 /* ContentView.swift */,
 				3C9C7D6D2B1700CF00EB69F0 /* Assets.xcassets */,
@@ -77,14 +88,19 @@
 				3C9C7D622B1700CA00EB69F0 /* Sources */,
 				3C9C7D632B1700CA00EB69F0 /* Frameworks */,
 				3C9C7D642B1700CA00EB69F0 /* Resources */,
+				3C9C7E4E2B175C3400EB69F0 /* Embed Frameworks */,
 			);
 			buildRules = (
 			);
 			dependencies = (
 			);
 			name = MainApplication;
+			packageProductDependencies = (
+				3C130EF92B18534E00F6E855 /* UI_Kit_Package */,
+				3C130EFC2B18810B00F6E855 /* Base_SDK */,
+			);
 			productName = MainApplication;
-			productReference = 3C9C7D662B1700CA00EB69F0 /* MainApplication.app */;
+			productReference = 3C9C7E612B1771C000EB69F0 /* MainApplication.app */;
 			productType = "com.apple.product-type.application";
 		};
 /* End PBXNativeTarget section */
@@ -111,7 +127,11 @@
 				Base,
 			);
 			mainGroup = 3C9C7D5D2B1700CA00EB69F0;
-			productRefGroup = 3C9C7D672B1700CA00EB69F0 /* Products */;
+			packageReferences = (
+				3C130EF82B18534E00F6E855 /* XCRemoteSwiftPackageReference "UI_Kit_Package" */,
+				3C130EFB2B18810B00F6E855 /* XCRemoteSwiftPackageReference "Base_SDK" */,
+			);
+			productRefGroup = 3C9C7D5D2B1700CA00EB69F0;
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
@@ -274,7 +294,16 @@
 				DEVELOPMENT_ASSET_PATHS = "\"MainApplication/Preview Content\"";
 				DEVELOPMENT_TEAM = YFLX8VC946;
 				ENABLE_PREVIEWS = YES;
+				FRAMEWORK_SEARCH_PATHS = (
+					"$(inherited)",
+					"$(PROJECT_DIR)",
+					"$(PROJECT_DIR)/UI-Component-SDK.build/VerifyModule/UI_Component_SDK_objective-c++_arm64-apple-ios17.0-simulator_gnu++20/Test",
+					"$(PROJECT_DIR)/UI-Component-SDK.build/VerifyModule/UI_Component_SDK_objective-c_arm64-apple-ios17.0-simulator_gnu17/Test",
+					"$(PROJECT_DIR)/MainApplication",
+				);
+				GCC_NO_COMMON_BLOCKS = NO;
 				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_FILE = MainApplication/Info.plist;
 				INFOPLIST_KEY_UIApplicationSceneManifest_Generation = YES;
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
 				INFOPLIST_KEY_UILaunchScreen_Generation = YES;
@@ -303,7 +332,16 @@
 				DEVELOPMENT_ASSET_PATHS = "\"MainApplication/Preview Content\"";
 				DEVELOPMENT_TEAM = YFLX8VC946;
 				ENABLE_PREVIEWS = YES;
+				FRAMEWORK_SEARCH_PATHS = (
+					"$(inherited)",
+					"$(PROJECT_DIR)",
+					"$(PROJECT_DIR)/UI-Component-SDK.build/VerifyModule/UI_Component_SDK_objective-c++_arm64-apple-ios17.0-simulator_gnu++20/Test",
+					"$(PROJECT_DIR)/UI-Component-SDK.build/VerifyModule/UI_Component_SDK_objective-c_arm64-apple-ios17.0-simulator_gnu17/Test",
+					"$(PROJECT_DIR)/MainApplication",
+				);
+				GCC_NO_COMMON_BLOCKS = NO;
 				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_FILE = MainApplication/Info.plist;
 				INFOPLIST_KEY_UIApplicationSceneManifest_Generation = YES;
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
 				INFOPLIST_KEY_UILaunchScreen_Generation = YES;
@@ -344,6 +382,38 @@
 			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
+
+/* Begin XCRemoteSwiftPackageReference section */
+		3C130EF82B18534E00F6E855 /* XCRemoteSwiftPackageReference "UI_Kit_Package" */ = {
+			isa = XCRemoteSwiftPackageReference;
+			repositoryURL = "https://github.com/LalanaChami/UI_Kit_Package.git";
+			requirement = {
+				kind = upToNextMajorVersion;
+				minimumVersion = 0.0.1;
+			};
+		};
+		3C130EFB2B18810B00F6E855 /* XCRemoteSwiftPackageReference "Base_SDK" */ = {
+			isa = XCRemoteSwiftPackageReference;
+			repositoryURL = "https://github.com/LalanaChami/Base_SDK.git";
+			requirement = {
+				kind = upToNextMajorVersion;
+				minimumVersion = 0.0.1;
+			};
+		};
+/* End XCRemoteSwiftPackageReference section */
+
+/* Begin XCSwiftPackageProductDependency section */
+		3C130EF92B18534E00F6E855 /* UI_Kit_Package */ = {
+			isa = XCSwiftPackageProductDependency;
+			package = 3C130EF82B18534E00F6E855 /* XCRemoteSwiftPackageReference "UI_Kit_Package" */;
+			productName = UI_Kit_Package;
+		};
+		3C130EFC2B18810B00F6E855 /* Base_SDK */ = {
+			isa = XCSwiftPackageProductDependency;
+			package = 3C130EFB2B18810B00F6E855 /* XCRemoteSwiftPackageReference "Base_SDK" */;
+			productName = Base_SDK;
+		};
+/* End XCSwiftPackageProductDependency section */
 	};
 	rootObject = 3C9C7D5E2B1700CA00EB69F0 /* Project object */;
 }

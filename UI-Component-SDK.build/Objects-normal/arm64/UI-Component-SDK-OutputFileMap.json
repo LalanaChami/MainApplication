@@ -1,0 +1,18 @@
+{
+  "" : {
+    "diagnostics" : "/Users/amilam/Library/Developer/Xcode/DerivedData/UI-Component-SDK-cgrqobojsgunctfbtkhzbpkwwsej/Build/Intermediates.noindex/UI-Component-SDK.build/Debug-iphonesimulator/UI-Component-SDK.build/Objects-normal/arm64/UI-Component-SDK-master.dia",
+    "emit-module-dependencies" : "/Users/amilam/Library/Developer/Xcode/DerivedData/UI-Component-SDK-cgrqobojsgunctfbtkhzbpkwwsej/Build/Intermediates.noindex/UI-Component-SDK.build/Debug-iphonesimulator/UI-Component-SDK.build/Objects-normal/arm64/UI-Component-SDK-master-emit-module.d",
+    "emit-module-diagnostics" : "/Users/amilam/Library/Developer/Xcode/DerivedData/UI-Component-SDK-cgrqobojsgunctfbtkhzbpkwwsej/Build/Intermediates.noindex/UI-Component-SDK.build/Debug-iphonesimulator/UI-Component-SDK.build/Objects-normal/arm64/UI-Component-SDK-master-emit-module.dia",
+    "swift-dependencies" : "/Users/amilam/Library/Developer/Xcode/DerivedData/UI-Component-SDK-cgrqobojsgunctfbtkhzbpkwwsej/Build/Intermediates.noindex/UI-Component-SDK.build/Debug-iphonesimulator/UI-Component-SDK.build/Objects-normal/arm64/UI-Component-SDK-master.swiftdeps"
+  },
+  "/Users/amilam/source/UI-Component-SDK/UI-Component-SDK/Components/PotfolioCardView.swift" : {
+    "const-values" : "/Users/amilam/Library/Developer/Xcode/DerivedData/UI-Component-SDK-cgrqobojsgunctfbtkhzbpkwwsej/Build/Intermediates.noindex/UI-Component-SDK.build/Debug-iphonesimulator/UI-Component-SDK.build/Objects-normal/arm64/PotfolioCardView.swiftconstvalues",
+    "dependencies" : "/Users/amilam/Library/Developer/Xcode/DerivedData/UI-Component-SDK-cgrqobojsgunctfbtkhzbpkwwsej/Build/Intermediates.noindex/UI-Component-SDK.build/Debug-iphonesimulator/UI-Component-SDK.build/Objects-normal/arm64/PotfolioCardView.d",
+    "diagnostics" : "/Users/amilam/Library/Developer/Xcode/DerivedData/UI-Component-SDK-cgrqobojsgunctfbtkhzbpkwwsej/Build/Intermediates.noindex/UI-Component-SDK.build/Debug-iphonesimulator/UI-Component-SDK.build/Objects-normal/arm64/PotfolioCardView.dia",
+    "index-unit-output-path" : "/UI-Component-SDK.build/Debug-iphonesimulator/UI-Component-SDK.build/Objects-normal/arm64/PotfolioCardView.o",
+    "llvm-bc" : "/Users/amilam/Library/Developer/Xcode/DerivedData/UI-Component-SDK-cgrqobojsgunctfbtkhzbpkwwsej/Build/Intermediates.noindex/UI-Component-SDK.build/Debug-iphonesimulator/UI-Component-SDK.build/Objects-normal/arm64/PotfolioCardView.bc",
+    "object" : "/Users/amilam/Library/Developer/Xcode/DerivedData/UI-Component-SDK-cgrqobojsgunctfbtkhzbpkwwsej/Build/Intermediates.noindex/UI-Component-SDK.build/Debug-iphonesimulator/UI-Component-SDK.build/Objects-normal/arm64/PotfolioCardView.o",
+    "swift-dependencies" : "/Users/amilam/Library/Developer/Xcode/DerivedData/UI-Component-SDK-cgrqobojsgunctfbtkhzbpkwwsej/Build/Intermediates.noindex/UI-Component-SDK.build/Debug-iphonesimulator/UI-Component-SDK.build/Objects-normal/arm64/PotfolioCardView.swiftdeps",
+    "swiftmodule" : "/Users/amilam/Library/Developer/Xcode/DerivedData/UI-Component-SDK-cgrqobojsgunctfbtkhzbpkwwsej/Build/Intermediates.noindex/UI-Component-SDK.build/Debug-iphonesimulator/UI-Component-SDK.build/Objects-normal/arm64/PotfolioCardView~partial.swiftmodule"
+  }
+}
