@@ -5,8 +5,8 @@
       "kind" : "remoteSourceControl",
       "location" : "https://github.com/LalanaChami/Base_SDK.git",
       "state" : {
-        "revision" : "b861d5b02576bbdfe29c0eaf6fc8733f75581473",
-        "version" : "0.0.6"
+        "revision" : "d9e20deb03ff686051406295ab2e342abda1c027",
+        "version" : "0.0.11"
       }
     },
     {
@@ -14,8 +14,8 @@
       "kind" : "remoteSourceControl",
       "location" : "https://github.com/LalanaChami/UI_Kit_Package.git",
       "state" : {
-        "revision" : "4a97183fd4b7809466fe9c1944b7b99c445e5f12",
-        "version" : "0.0.4"
+        "revision" : "2577a6ef9eb834f3fe1f43bdfc85f604c1f82666",
+        "version" : "0.0.5"
       }
     }
   ],

@@ -1,0 +1,439 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "8120942D-EAFC-4557-B238-C695F16403D1"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "530C659E-A356-4054-9958-A4E259E2E361"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "MainApplication/Views/View1/View1Model.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "24"
+            endingLineNumber = "24"
+            landmarkName = "subscribeToPortfolioData()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "530C659E-A356-4054-9958-A4E259E2E361 - 6f58995b01c15947"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "MainApplication.View1Model.subscribeToPortfolioData() -&gt; ()"
+                  moduleName = "MainApplication"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/amilam/source/MainApplication/MainApplication/Views/View1/View1Model.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "24"
+                  endingLineNumber = "24"
+                  offsetFromSymbolStart = "200">
+               </Location>
+               <Location
+                  uuid = "530C659E-A356-4054-9958-A4E259E2E361 - 2e2ff00c967f5207"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Array&lt;Base_SDK.PortfolioEntity&gt;) -&gt; () in MainApplication.View1Model.subscribeToPortfolioData() -&gt; ()"
+                  moduleName = "MainApplication"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/amilam/source/MainApplication/MainApplication/Views/View1/View1Model.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "24"
+                  endingLineNumber = "24"
+                  offsetFromSymbolStart = "36">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "8F10AA4F-AB0A-4969-A8DC-AEE0E1C46B76"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "MainApplication/Views/View1/View1Model.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "25"
+            endingLineNumber = "25"
+            landmarkName = "subscribeToPortfolioData()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "739CA043-E1B4-4354-BC3C-8E64CFB81E45"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "MainApplication/Views/View1/View1Model.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "23"
+            endingLineNumber = "23"
+            landmarkName = "subscribeToPortfolioData()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "7A358273-8715-4600-90F5-9508F116D007"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "MainApplication/Views/View1/View1Model.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "19"
+            endingLineNumber = "19"
+            landmarkName = "init()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "DC258B8F-0BFD-430E-81E1-DFC24A3BBB1A"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "MainApplication/Views/View1/View1.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "16"
+            endingLineNumber = "16"
+            landmarkName = "body"
+            landmarkType = "24">
+            <Locations>
+               <Location
+                  uuid = "DC258B8F-0BFD-430E-81E1-DFC24A3BBB1A - 78e6ca127eabe665"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 () -&gt; SwiftUI.ForEach&lt;Swift.Array&lt;Base_SDK.PortfolioEntity&gt;, Swift.Optional&lt;Swift.String&gt;, UI_Kit_Package.PotfolioCardView&gt; in MainApplication.View1.body.getter : some"
+                  moduleName = "MainApplication"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/amilam/source/MainApplication/MainApplication/Views/View1/View1.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "16"
+                  endingLineNumber = "16"
+                  offsetFromSymbolStart = "188">
+               </Location>
+               <Location
+                  uuid = "DC258B8F-0BFD-430E-81E1-DFC24A3BBB1A - 789179b8a35e9e29"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Base_SDK.PortfolioEntity) -&gt; UI_Kit_Package.PotfolioCardView in closure #1 () -&gt; SwiftUI.ForEach&lt;Swift.Array&lt;Base_SDK.PortfolioEntity&gt;, Swift.Optional&lt;Swift.String&gt;, UI_Kit_Package.PotfolioCardView&gt; in MainApplication.View1.body.getter : some"
+                  moduleName = "MainApplication"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/amilam/source/MainApplication/MainApplication/Views/View1/View1.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "17"
+                  endingLineNumber = "17"
+                  offsetFromSymbolStart = "60">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "76C31363-56F5-4564-BCB7-D67292B48596"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "../../Library/Developer/Xcode/DerivedData/MainApplication-dnhtfayygqvavoavhezbecgnsnnp/SourcePackages/checkouts/Base_SDK/Sources/Base_SDK/Services/PortfolioService.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "31"
+            endingLineNumber = "31"
+            landmarkName = "getPortfolioData()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "9075FC7D-4EB9-4C20-AC99-C8F5C7C5D060"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "../../Library/Developer/Xcode/DerivedData/MainApplication-dnhtfayygqvavoavhezbecgnsnnp/SourcePackages/checkouts/Base_SDK/Sources/Base_SDK/Services/PortfolioService.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "32"
+            endingLineNumber = "32"
+            landmarkName = "getPortfolioData()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "56820611-1810-4798-BA5F-2BE1FF6212CF"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "../../Library/Developer/Xcode/DerivedData/MainApplication-dnhtfayygqvavoavhezbecgnsnnp/SourcePackages/checkouts/Base_SDK/Sources/Base_SDK/NetworkManagers/TradeNetworkManager.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "28"
+            endingLineNumber = "28"
+            landmarkName = "handleURLResponse(output:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "ACFC120D-D833-4726-B5F6-116D639F645A"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "../../Library/Developer/Xcode/DerivedData/MainApplication-dnhtfayygqvavoavhezbecgnsnnp/SourcePackages/checkouts/Base_SDK/Sources/Base_SDK/NetworkManagers/TradeNetworkManager.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "25"
+            endingLineNumber = "25"
+            landmarkName = "handleURLResponse(output:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "7AF3E0D1-A366-4396-90F0-8D6A5985E666"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "../../Library/Developer/Xcode/DerivedData/MainApplication-dnhtfayygqvavoavhezbecgnsnnp/SourcePackages/checkouts/Base_SDK/Sources/Base_SDK/NetworkManagers/TradeNetworkManager.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "26"
+            endingLineNumber = "26"
+            landmarkName = "handleURLResponse(output:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "7AF3E0D1-A366-4396-90F0-8D6A5985E666 - 1e789e2d535e5cee"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "static Base_SDK.TradeNetworkManager.handleURLResponse(output: (data: Foundation.Data, response: __C.NSURLResponse)) throws -&gt; Foundation.Data"
+                  moduleName = "MainApplication"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/amilam/Library/Developer/Xcode/DerivedData/MainApplication-dnhtfayygqvavoavhezbecgnsnnp/SourcePackages/checkouts/Base_SDK/Sources/Base_SDK/NetworkManagers/TradeNetworkManager.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "26"
+                  endingLineNumber = "26"
+                  offsetFromSymbolStart = "596">
+               </Location>
+               <Location
+                  uuid = "7AF3E0D1-A366-4396-90F0-8D6A5985E666 - 1e789e2d535e5cee"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "static Base_SDK.TradeNetworkManager.handleURLResponse(output: (data: Foundation.Data, response: __C.NSURLResponse)) throws -&gt; Foundation.Data"
+                  moduleName = "MainApplication"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/amilam/Library/Developer/Xcode/DerivedData/MainApplication-dnhtfayygqvavoavhezbecgnsnnp/SourcePackages/checkouts/Base_SDK/Sources/Base_SDK/NetworkManagers/TradeNetworkManager.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "26"
+                  endingLineNumber = "26"
+                  offsetFromSymbolStart = "732">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "54100976-D309-416F-ABAE-BBD5A6592F55"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "MainApplication/Views/View1/View1Model.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "27"
+            endingLineNumber = "27"
+            landmarkName = "subscribeToPortfolioData()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "A3738BA4-8C9D-4532-A67B-C17903DE340E"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "../../Library/Developer/Xcode/DerivedData/MainApplication-dnhtfayygqvavoavhezbecgnsnnp/SourcePackages/checkouts/Base_SDK/Sources/Base_SDK/Services/PortfolioService.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "30"
+            endingLineNumber = "30"
+            landmarkName = "getPortfolioData()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "A3738BA4-8C9D-4532-A67B-C17903DE340E - 52b52fbf3388e65c"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Base_SDK.PortfolioService.getPortfolioData() -&gt; ()"
+                  moduleName = "MainApplication"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/amilam/Library/Developer/Xcode/DerivedData/MainApplication-dnhtfayygqvavoavhezbecgnsnnp/SourcePackages/checkouts/Base_SDK/Sources/Base_SDK/Services/PortfolioService.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "30"
+                  endingLineNumber = "30"
+                  offsetFromSymbolStart = "556">
+               </Location>
+               <Location
+                  uuid = "A3738BA4-8C9D-4532-A67B-C17903DE340E - 2a4a8765c68f2d78"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "implicit closure #1 (Combine.Subscribers.Completion&lt;Swift.Error&gt;) -&gt; () in Base_SDK.PortfolioService.getPortfolioData() -&gt; ()"
+                  moduleName = "MainApplication"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/amilam/Library/Developer/Xcode/DerivedData/MainApplication-dnhtfayygqvavoavhezbecgnsnnp/SourcePackages/checkouts/Base_SDK/Sources/Base_SDK/Services/PortfolioService.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "30"
+                  endingLineNumber = "30"
+                  offsetFromSymbolStart = "36">
+               </Location>
+               <Location
+                  uuid = "A3738BA4-8C9D-4532-A67B-C17903DE340E - 60b0e62b4a2e2c3"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Array&lt;Base_SDK.PortfolioEntity&gt;) -&gt; () in Base_SDK.PortfolioService.getPortfolioData() -&gt; ()"
+                  moduleName = "MainApplication"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/amilam/Library/Developer/Xcode/DerivedData/MainApplication-dnhtfayygqvavoavhezbecgnsnnp/SourcePackages/checkouts/Base_SDK/Sources/Base_SDK/Services/PortfolioService.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "30"
+                  endingLineNumber = "30"
+                  offsetFromSymbolStart = "36">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "DE9AA89B-EB29-414E-A5DA-FD441CDDE46E"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "../../Library/Developer/Xcode/DerivedData/MainApplication-dnhtfayygqvavoavhezbecgnsnnp/SourcePackages/checkouts/Base_SDK/Sources/Base_SDK/Services/PortfolioService.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "29"
+            endingLineNumber = "29"
+            landmarkName = "getPortfolioData()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "0563D475-92F0-4804-ADAB-BE78635AB0A7"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "../../Library/Developer/Xcode/DerivedData/MainApplication-dnhtfayygqvavoavhezbecgnsnnp/SourcePackages/checkouts/Base_SDK/Sources/Base_SDK/NetworkManagers/TradeNetworkManager.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "37"
+            endingLineNumber = "37"
+            landmarkName = "handleCompletion(completion:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "5AAB4620-8E80-472C-BCFB-C1C9887B81B7"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "../../Library/Developer/Xcode/DerivedData/MainApplication-dnhtfayygqvavoavhezbecgnsnnp/SourcePackages/checkouts/Base_SDK/Sources/Base_SDK/NetworkManagers/TradeNetworkManager.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "39"
+            endingLineNumber = "39"
+            landmarkName = "handleCompletion(completion:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "43228F93-853C-4645-A781-67D211D9FA14"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "../../Library/Developer/Xcode/DerivedData/MainApplication-dnhtfayygqvavoavhezbecgnsnnp/SourcePackages/checkouts/Base_SDK/Sources/Base_SDK/NetworkManagers/TradeNetworkManager.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "34"
+            endingLineNumber = "34"
+            landmarkName = "handleCompletion(completion:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "E6C09BBB-E2BC-4115-9614-079A76007DC0"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "../../Library/Developer/Xcode/DerivedData/MainApplication-dnhtfayygqvavoavhezbecgnsnnp/SourcePackages/checkouts/Base_SDK/Sources/Base_SDK/NetworkManagers/TradeNetworkManager.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "35"
+            endingLineNumber = "35"
+            landmarkName = "handleCompletion(completion:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "6DC2F782-657E-466E-991B-DE64057E5DAF"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "../../Library/Developer/Xcode/DerivedData/MainApplication-dnhtfayygqvavoavhezbecgnsnnp/SourcePackages/checkouts/Base_SDK/Sources/Base_SDK/NetworkManagers/TradeNetworkManager.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "33"
+            endingLineNumber = "33"
+            landmarkName = "handleCompletion(completion:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
