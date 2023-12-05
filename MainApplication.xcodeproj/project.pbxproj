@@ -10,6 +10,7 @@
 		3C130EFA2B18534E00F6E855 /* UI_Kit_Package in Frameworks */ = {isa = PBXBuildFile; productRef = 3C130EF92B18534E00F6E855 /* UI_Kit_Package */; };
 		3C130EFD2B18810B00F6E855 /* Base_SDK in Frameworks */ = {isa = PBXBuildFile; productRef = 3C130EFC2B18810B00F6E855 /* Base_SDK */; };
 		3C130F012B1C2FA900F6E855 /* View1Model.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3C130F002B1C2FA900F6E855 /* View1Model.swift */; };
+		3C1DE9862B1EE31900A1979F /* Double.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3C1DE9852B1EE31900A1979F /* Double.swift */; };
 		3C9C7D6A2B1700CA00EB69F0 /* MainApplicationApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3C9C7D692B1700CA00EB69F0 /* MainApplicationApp.swift */; };
 		3C9C7D6C2B1700CA00EB69F0 /* View1.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3C9C7D6B2B1700CA00EB69F0 /* View1.swift */; };
 		3C9C7D6E2B1700CF00EB69F0 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 3C9C7D6D2B1700CF00EB69F0 /* Assets.xcassets */; };
@@ -32,6 +33,7 @@
 
 /* Begin PBXFileReference section */
 		3C130F002B1C2FA900F6E855 /* View1Model.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = View1Model.swift; sourceTree = "<group>"; };
+		3C1DE9852B1EE31900A1979F /* Double.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Double.swift; sourceTree = "<group>"; };
 		3C9C7D692B1700CA00EB69F0 /* MainApplicationApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MainApplicationApp.swift; sourceTree = "<group>"; };
 		3C9C7D6B2B1700CA00EB69F0 /* View1.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = View1.swift; sourceTree = "<group>"; };
 		3C9C7D6D2B1700CF00EB69F0 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
@@ -71,6 +73,14 @@
 			path = View1;
 			sourceTree = "<group>";
 		};
+		3C1DE9842B1EE2FB00A1979F /* Extensions */ = {
+			isa = PBXGroup;
+			children = (
+				3C1DE9852B1EE31900A1979F /* Double.swift */,
+			);
+			path = Extensions;
+			sourceTree = "<group>";
+		};
 		3C9C7D5D2B1700CA00EB69F0 = {
 			isa = PBXGroup;
 			children = (
@@ -82,6 +92,7 @@
 		3C9C7D682B1700CA00EB69F0 /* MainApplication */ = {
 			isa = PBXGroup;
 			children = (
+				3C1DE9842B1EE2FB00A1979F /* Extensions */,
 				3C130EFE2B1C2E5900F6E855 /* Views */,
 				3C9C7E4A2B175BD000EB69F0 /* Info.plist */,
 				3C9C7D692B1700CA00EB69F0 /* MainApplicationApp.swift */,
@@ -181,6 +192,7 @@
 			files = (
 				3C9C7D6C2B1700CA00EB69F0 /* View1.swift in Sources */,
 				3C9C7D6A2B1700CA00EB69F0 /* MainApplicationApp.swift in Sources */,
+				3C1DE9862B1EE31900A1979F /* Double.swift in Sources */,
 				3C130F012B1C2FA900F6E855 /* View1Model.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;

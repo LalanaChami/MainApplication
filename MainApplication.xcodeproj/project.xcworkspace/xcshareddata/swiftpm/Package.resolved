@@ -5,8 +5,8 @@
       "kind" : "remoteSourceControl",
       "location" : "https://github.com/LalanaChami/Base_SDK.git",
       "state" : {
-        "revision" : "d9e20deb03ff686051406295ab2e342abda1c027",
-        "version" : "0.0.11"
+        "revision" : "d6d96e5f8c2af419bdcb3f0977e4255c8da9c592",
+        "version" : "0.0.12"
       }
     },
     {

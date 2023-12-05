@@ -98,52 +98,36 @@
             endingLineNumber = "19"
             landmarkName = "init()"
             landmarkType = "7">
-         </BreakpointContent>
-      </BreakpointProxy>
-      <BreakpointProxy
-         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
-         <BreakpointContent
-            uuid = "DC258B8F-0BFD-430E-81E1-DFC24A3BBB1A"
-            shouldBeEnabled = "Yes"
-            ignoreCount = "0"
-            continueAfterRunningActions = "No"
-            filePath = "MainApplication/Views/View1/View1.swift"
-            startingColumnNumber = "9223372036854775807"
-            endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "16"
-            endingLineNumber = "16"
-            landmarkName = "body"
-            landmarkType = "24">
             <Locations>
                <Location
-                  uuid = "DC258B8F-0BFD-430E-81E1-DFC24A3BBB1A - 78e6ca127eabe665"
+                  uuid = "7A358273-8715-4600-90F5-9508F116D007 - 15a162c5405b3d9e"
                   shouldBeEnabled = "Yes"
                   ignoreCount = "0"
                   continueAfterRunningActions = "No"
-                  symbolName = "closure #1 () -&gt; SwiftUI.ForEach&lt;Swift.Array&lt;Base_SDK.PortfolioEntity&gt;, Swift.Optional&lt;Swift.String&gt;, UI_Kit_Package.PotfolioCardView&gt; in MainApplication.View1.body.getter : some"
+                  symbolName = "MainApplication.View1Model.init() -&gt; MainApplication.View1Model"
                   moduleName = "MainApplication"
                   usesParentBreakpointCondition = "Yes"
-                  urlString = "file:///Users/amilam/source/MainApplication/MainApplication/Views/View1/View1.swift"
+                  urlString = "file:///Users/amilam/source/MainApplication/MainApplication/Views/View1/View1Model.swift"
                   startingColumnNumber = "9223372036854775807"
                   endingColumnNumber = "9223372036854775807"
-                  startingLineNumber = "16"
-                  endingLineNumber = "16"
-                  offsetFromSymbolStart = "188">
+                  startingLineNumber = "19"
+                  endingLineNumber = "19"
+                  offsetFromSymbolStart = "264">
                </Location>
                <Location
-                  uuid = "DC258B8F-0BFD-430E-81E1-DFC24A3BBB1A - 789179b8a35e9e29"
+                  uuid = "7A358273-8715-4600-90F5-9508F116D007 - 15a162c5405b3d9e"
                   shouldBeEnabled = "Yes"
                   ignoreCount = "0"
                   continueAfterRunningActions = "No"
-                  symbolName = "closure #1 (Base_SDK.PortfolioEntity) -&gt; UI_Kit_Package.PotfolioCardView in closure #1 () -&gt; SwiftUI.ForEach&lt;Swift.Array&lt;Base_SDK.PortfolioEntity&gt;, Swift.Optional&lt;Swift.String&gt;, UI_Kit_Package.PotfolioCardView&gt; in MainApplication.View1.body.getter : some"
+                  symbolName = "MainApplication.View1Model.init() -&gt; MainApplication.View1Model"
                   moduleName = "MainApplication"
                   usesParentBreakpointCondition = "Yes"
-                  urlString = "file:///Users/amilam/source/MainApplication/MainApplication/Views/View1/View1.swift"
+                  urlString = "file:///Users/amilam/source/MainApplication/MainApplication/Views/View1/View1Model.swift"
                   startingColumnNumber = "9223372036854775807"
                   endingColumnNumber = "9223372036854775807"
-                  startingLineNumber = "17"
-                  endingLineNumber = "17"
-                  offsetFromSymbolStart = "60">
+                  startingLineNumber = "19"
+                  endingLineNumber = "19"
+                  offsetFromSymbolStart = "260">
                </Location>
             </Locations>
          </BreakpointContent>
